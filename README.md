@@ -1,4 +1,4 @@
-# Awesome DevOps :ru:
+# Awesome DevOps :ru
 
 [![CI](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml/badge.svg)](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml)
 
@@ -24,8 +24,6 @@
 
 ## Аспекты операционных систем
 
-_Управление процессами, виртуализация и файловая система._
-
 - [Управление процессами](https://doka.guide/tools/process-management/)
 - [Потоки и параллелизм](https://russianblogs.com/article/86971326826/)
 - [Сокеты](https://habr.com/ru/company/otus/blog/539550/)
@@ -40,7 +38,7 @@ _Управление процессами, виртуализация и фай
   - [Протокол связующего дерева: STP](https://habr.com/ru/post/321132/)
   - [Протокол агрегирования каналов: Etherchannel](https://habr.com/ru/post/334778/)
   - [Маршрутизация: статическая и динамическая на примере RIP, OSPF и EIGRP](https://habr.com/ru/post/335090/)
-- Работа с сетью
+- [Работа с сетью](https://doka.guide/tools/network/)
 - [Управление инициализацией (initd)](https://www.opennet.ru/man.shtml?topic=init&russian=0&category=&submit=%F0%CF%CB%C1%DA%C1%D4%D8+man)
 - [Управление сервисами (systemd)](https://www.opennet.ru/man.shtml?topic=systemd&category=1&russian=0)
   - [Systemd для администраторов](http://www2.kangran.su/~nnz/pub/s4a/s4a_latest.pdf)
